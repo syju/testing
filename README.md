@@ -1,1 +1,1 @@
-echo "new file"
+df -Th
