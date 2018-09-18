@@ -1,1 +1,1 @@
-df -Th
+free -m
