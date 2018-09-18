@@ -1,2 +1,1 @@
-#!/bin/bash
-df -Th
+testing 1..2..3
